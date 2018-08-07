@@ -1,0 +1,52 @@
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\bin\Debug\DataProcessTest.exe.config
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\bin\Debug\DataProcessTest.exe
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\bin\Debug\DataProcessTest.pdb
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.csprojResolveAssemblyReference.cache
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\MainWindow.g.cs
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\App.g.cs
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest_MarkupCompile.cache
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest_MarkupCompile.lref
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\MainWindow.baml
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.g.resources
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.Properties.Resources.resources
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.csproj.GenerateResource.Cache
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.csproj.CoreCompileInputs.cache
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.exe
+C:\Users\renkt\AppData\Local\Temporary Projects\DataProcessTest\obj\Debug\DataProcessTest.pdb
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\DataProcessTest.exe.config
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\DataProcessTest.exe
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\DataProcessTest.pdb
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csprojResolveAssemblyReference.cache
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\MainWindow.g.cs
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\App.g.cs
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest_MarkupCompile.cache
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest_MarkupCompile.lref
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\MainWindow.baml
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.g.resources
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.Properties.Resources.resources
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csproj.GenerateResource.Cache
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csproj.CoreCompileInputs.cache
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.exe
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.pdb
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\MySql.Data.dll
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\MySQLConnection.dll
+C:\Users\renkt\OneDrive\Документы\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\MySql.Data.xml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\DataProcessTest.exe.config
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\DataProcessTest.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\DataProcessTest.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\MySql.Data.dll
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\MySQLConnection.dll
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\bin\Debug\MySql.Data.xml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csprojAssemblyReference.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\MainWindow.g.cs
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\App.g.cs
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest_MarkupCompile.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest_MarkupCompile.lref
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\MainWindow.baml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.g.resources
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.Properties.Resources.resources
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csproj.GenerateResource.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csproj.CoreCompileInputs.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.csproj.CopyComplete
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\DataProcessTest\DataProcessTest\obj\Debug\DataProcessTest.pdb

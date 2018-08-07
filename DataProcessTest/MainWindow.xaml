@@ -1,0 +1,51 @@
+﻿<Window x:Class="DataProcessTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataProcessTest"
+        mc:Ignorable="d"
+        Title="Data Process Test" Height="650" Width="1200">
+
+
+    <Grid Name="Grid">
+        <TextBox x:Name="textBox" HorizontalAlignment="Right" Height="23" Margin="0,32,89.6,0" TextWrapping="Wrap" Text="Select input file" VerticalAlignment="Top" Width="385"/>
+        <Button x:Name="button" Content="Browse" HorizontalAlignment="Right" Margin="0,32,9.6,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="button1" Content="Start" HorizontalAlignment="Right" Margin="0,87,252.6,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Cancel" HorizontalAlignment="Right" Margin="0,87,117.6,0" VerticalAlignment="Top" Width="75" Click="button2_Click" RenderTransformOrigin="1.131,3.021"/>
+        <ProgressBar x:Name="Progressbar" HorizontalAlignment="Left" Height="20" Margin="719,126,0,0" VerticalAlignment="Top" Width="462"/>
+        <DataGrid x:Name="dataGrid" AutoGenerateColumns="True" Margin="10,68,493.6,94" MinWidth="606" MinHeight="332"/>
+        <Button x:Name="button3" Content="Export to MSAccess" HorizontalAlignment="Right" Margin="0,398,17.6,0" VerticalAlignment="Top" Width="120" Height="23" Click="button3_Click"/>
+        <Button x:Name="button4" Content="Import from MSAccess" HorizontalAlignment="Right" Margin="0,427,17.6,0" VerticalAlignment="Top" Width="150" Height="23" Click="button4_Click"/>
+        <Button x:Name="button5" Content="Clear Table" Margin="0,0,502.6,50" Width="75" Click="button5_Click" Height="28" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+        <Button x:Name="button6" Content="Import from MySQL" HorizontalAlignment="Right" Margin="0,313,17.6,0" VerticalAlignment="Top" Width="164" Click="button6_Click" Height="23"/>
+        <Button x:Name="button7" Content="Export to MySQL (new table)" HorizontalAlignment="Right" Margin="0,255,17.6,0" VerticalAlignment="Top" Width="164" Height="23" Click="button7_Click"/>
+        <Button x:Name="button8" Content="Export to MySQL (existing table with same columns)" HorizontalAlignment="Right" Margin="0,285,12.6,0" VerticalAlignment="Top" Width="301" Height="23" Click="button8_Click"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Right" Height="23" Margin="0,255,186.6,0" TextWrapping="Wrap" Text="tablename" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Right" Height="23" Margin="0,285,318.6,0" TextWrapping="Wrap" Text="tablename" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Right" Height="23" Margin="0,207,285.6,0" TextWrapping="Wrap" Text="ubuntuserver" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Right" Height="23" Margin="0,207,210.6,0" TextWrapping="Wrap" Text="testdb" VerticalAlignment="Top" Width="70"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Right" Height="23" Margin="0,207,135.6,0" TextWrapping="Wrap" Text="root" VerticalAlignment="Top" Width="70"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Right" Height="23" Margin="0,207,9.6,0" TextWrapping="Wrap" Text="fiokgg" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Right" Height="23" Margin="0,315,186.6,0" TextWrapping="Wrap" Text="tablename" VerticalAlignment="Top" Width="120"/>
+        <GroupBox x:Name="groupBox" Header="Mysql" HorizontalAlignment="Right" Height="225" Margin="0,158,6.6,0" VerticalAlignment="Top" Width="473" RenderTransformOrigin="0.5,0.5">
+            <GroupBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.263"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.395"/>
+                </TransformGroup>
+            </GroupBox.RenderTransform>
+
+        </GroupBox>
+        <Label x:Name="label" Content="hostname" HorizontalAlignment="Right" Margin="0,176,318.6,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="database" HorizontalAlignment="Right" Margin="0,176,222.6,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="user" HorizontalAlignment="Right" Margin="0,176,149.6,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy2" Content="password" HorizontalAlignment="Right" Margin="0,176,38.6,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox8" HorizontalAlignment="Right" Height="23" Margin="0,32,493.6,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox8_TextChanged"/>
+        <Label x:Name="label1" Content="Filter" HorizontalAlignment="Right" Margin="0,30,618.6,0" VerticalAlignment="Top" RenderTransformOrigin="0.188,0.414"/>
+
+
+    </Grid>
+</Window>
